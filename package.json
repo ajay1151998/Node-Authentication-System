@@ -1,7 +1,7 @@
 {
   "name": "codeial",
   "version": "1.0.0",
-  "description": "My all social media web application",
+  "description": "Auth",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "social"
   ],
-  "author": "CodingNinjas",
+  "author": "CodingNinja",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
@@ -33,5 +33,5 @@
   },
   "repository": {},
   "bugs": {},
-  "homepage": "https://github.com/prateeksha9/verifyOk#readme"
+  "homepage": ""
 }
