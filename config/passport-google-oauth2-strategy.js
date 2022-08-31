@@ -11,7 +11,8 @@ passport.use(
       clientID:
         "670690277423-56t78k1pill407ee7gq8p1shnome9qv5.apps.googleusercontent.com",
       clientSecret: "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",
-      callbackURL: "http://localhost:8000/users/auth/google/callback",
+      callbackURL:
+        "https://verify-auth.herokuapp.com/users/auth/google/callback",
     },
 
     // find user
